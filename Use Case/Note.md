@@ -15,6 +15,7 @@
 - Create, edit, delete questions
 - Share assignment
 - Generate Plagiarism Report for assignment
+- Create Student Groups
 
 ### Student
 - Join to assignment 
